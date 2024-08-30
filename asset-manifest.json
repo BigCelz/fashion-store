@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/fashion-store/static/css/main.1d555977.css",
+    "main.js": "/fashion-store/static/js/main.f37eb15b.js",
+    "static/js/453.8edb6ad4.chunk.js": "/fashion-store/static/js/453.8edb6ad4.chunk.js",
+    "static/media/model4.png": "/fashion-store/static/media/model4.94d217ac3492e3286c2d.png",
+    "static/media/heromodel3.jpg": "/fashion-store/static/media/heromodel3.cd7d7d86a8f6561423f0.jpg",
+    "static/media/girlmodel3.jpg": "/fashion-store/static/media/girlmodel3.4773c4cd07bb151864dd.jpg",
+    "static/media/guymodel1.jpeg": "/fashion-store/static/media/guymodel1.21c2f2a35c2ec98e4390.jpeg",
+    "static/media/menbanner3.jpeg": "/fashion-store/static/media/menbanner3.5c18beecdff74a59de85.jpeg",
+    "static/media/kidmodel1.jpg": "/fashion-store/static/media/kidmodel1.89247fbf0a1ed3abf606.jpg",
+    "static/media/model5.png": "/fashion-store/static/media/model5.18e54c95caa26148ef01.png",
+    "static/media/heroimage3.png": "/fashion-store/static/media/heroimage3.cc782e0b5fcdb6a17ed5.png",
+    "static/media/heromodel4.jpg": "/fashion-store/static/media/heromodel4.a5007455f38468305604.jpg",
+    "static/media/shoppinglogo.jpg": "/fashion-store/static/media/shoppinglogo.9631ec19ac462549acb3.jpg",
+    "static/media/guymodel3.jpg": "/fashion-store/static/media/guymodel3.03559530daaf9dd25a78.jpg",
+    "static/media/heromodel2.jpg": "/fashion-store/static/media/heromodel2.12ae5a064581c5872dc9.jpg",
+    "static/media/guymodel4.jpg": "/fashion-store/static/media/guymodel4.cb6342a778e7b3735321.jpg",
+    "static/media/model6.jpeg": "/fashion-store/static/media/model6.4a0ec5f7e213c7a33a70.jpeg",
+    "static/media/model12.jpg": "/fashion-store/static/media/model12.f16f7e50220fbea83c1c.jpg",
+    "static/media/model7.jpeg": "/fashion-store/static/media/model7.74e56604e40b65a88a7b.jpeg",
+    "static/media/handicon3.png": "/fashion-store/static/media/handicon3.29bb0f170e61d81b6cdc.png",
+    "static/media/kidbanner2.jpg": "/fashion-store/static/media/kidbanner2.84cfaf22cb6156457fe6.jpg",
+    "static/media/model8.jpg": "/fashion-store/static/media/model8.e32bc80dff6e56b867b6.jpg",
+    "static/media/kidmodel3.jpg": "/fashion-store/static/media/kidmodel3.050cf8b714530c77176f.jpg",
+    "static/media/model10.jpg": "/fashion-store/static/media/model10.76befefe36b8154db181.jpg",
+    "static/media/kidmodel2.jpg": "/fashion-store/static/media/kidmodel2.3f21bda2c832ef5454cb.jpg",
+    "static/media/womenbanner.jpg": "/fashion-store/static/media/womenbanner.a37c339ad744e0bbd9ee.jpg",
+    "static/media/girlmodel4.jpg": "/fashion-store/static/media/girlmodel4.640b009a526de7f4f694.jpg",
+    "static/media/model11.jpg": "/fashion-store/static/media/model11.2c07425c0b21e70c85b8.jpg",
+    "static/media/model9.jpg": "/fashion-store/static/media/model9.72daa770d70208161537.jpg",
+    "static/media/cart.jpg": "/fashion-store/static/media/cart.51d3d101b62326daa4f2.jpg",
+    "index.html": "/fashion-store/index.html",
+    "main.1d555977.css.map": "/fashion-store/static/css/main.1d555977.css.map",
+    "main.f37eb15b.js.map": "/fashion-store/static/js/main.f37eb15b.js.map",
+    "453.8edb6ad4.chunk.js.map": "/fashion-store/static/js/453.8edb6ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d555977.css",
+    "static/js/main.f37eb15b.js"
+  ]
+}
